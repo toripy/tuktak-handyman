@@ -69,6 +69,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+##Live demo: https://tuktak-e6fa7.web.app/
+
 # after login you will show dashboard in navbar.
 
 # if you admin you will show admin panel
@@ -76,3 +78,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # if you user you will show user panel
 
 # from homepage if you click our services order now button you will redirect dashboard with login
+
